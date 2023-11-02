@@ -1,3 +1,5 @@
+##How to use
+###Enter title, content. Paste the url of an image from web.
 ```sh
     npm install
 ```
